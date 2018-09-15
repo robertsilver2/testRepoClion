@@ -12,4 +12,10 @@
 #ifndef TESTREPOCLION_HELLOWORLD_H
 #define TESTREPOCLION_HELLOWORLD_H
 
+#include <cstdint>
+
+using namespace std;
+//namespace declaration taken from ProfKnight/ex01-linearsearch/include/linearsearch.h
+
+
 #endif //TESTREPOCLION_HELLOWORLD_H
